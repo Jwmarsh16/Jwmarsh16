@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jonathan Marshall!
 
-<!--
-**Jwmarsh16/Jwmarsh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** passionate about building robust and scalable applications. With a background in full-stack development and a love for learning, I specialize in:
 
-Here are some ideas to get you started:
+- 🌐 **Frontend**: React, Redux, Vite, HTML/CSS
+- ⚙️ **Backend**: Flask, SQLAlchemy, Python
+- 🗄️ **Database**: PostgreSQL, SQLite
+- 🛠️ **Tools**: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On
+- A **Pathfinder Algorithm Visualizer** to showcase algorithm efficiency and pathfinding techniques.
+- Expanding my knowledge in DevOps and Cloud Computing.
+
+---
+
+### 🌟 Fun Facts About Me
+- 🎮 I love gaming and analyzing game mechanics.
+- 🎵 I enjoy attending concerts and exploring new music.
+- 🏞️ Hiking and exploring the outdoors recharges my creativity.
+
+---
+
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/jonathan-marshall-a2a833257/)
+- [Email](jwmarsh16@gmail.com)
+
